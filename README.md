@@ -3,6 +3,7 @@ This repository builds a product detection model to recognize products that are 
 
 * The provided dataset is converted to TFRecords for easy compatibility with the TFOD API. Further notes are available inside the `Colabs/GroceryDataset_EDA_Prep.ipynb` notebook.
 * Detection network used: SSD MobileDet.
+* For testing your images change the file image2product.json in Annotated Files
 
 ## Dataset citation
 ```
